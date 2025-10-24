@@ -1,0 +1,33 @@
+[
+    {
+        "nombre": "Xavier Mateo",
+        "positivo": "Me gusta trabajar con Carlos",
+        "negativo": "Prefiero no currar con Martín Junì",
+        "motivo": "jajsdjasjdajlsldajsgfaljsjdalsjd",
+        "fecha": "2025-10-23 16:22:29"
+    },
+    {
+        "nombre_completo": "nombresss",
+        "email": "mateolopeezz9@gmail.com",
+        "telefono": "444444444",
+        "fecha_nacimiento": "1999-10-16",
+        "edad": "23",
+        "genero": "masculino",
+        "puesto_actual": "4324",
+        "departamento": "desarrollo",
+        "fecha_incorporacion": "2025-10-16",
+        "experiencia_anios": "5",
+        "eleccion_positiva_1": "treyrtuyiry",
+        "eleccion_positiva_2": "Hola que tal",
+        "eleccion_negativa_1": "oejfwpnjfewj",
+        "motivo_eleccion": "gsgfdhfdh",
+        "hora_reunion_preferida": "20:22",
+        "color_equipo": "#0363c9",
+        "tecnologias": [
+            "js"
+        ],
+        "satisfaccion_general": "4",
+        "carga_trabajo": "baja",
+        "fecha_envio": "2025-10-23 18:39:47"
+    }
+]
